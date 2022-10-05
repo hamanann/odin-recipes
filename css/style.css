@@ -1,0 +1,26 @@
+.recipeHeading {
+    background-color: rgb(231, 65, 35);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: lightgreen;
+}
+
+.description {
+    font-style: italic;
+    text-align: center;
+}
+
+.dish {
+    height: 500px;
+    width: auto;
+}
+
+li {
+    font-size: 18px;
+}
